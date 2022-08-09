@@ -1,0 +1,3 @@
+In addition to origin, it’s often convenient to have a connection to your teammates’ 
+repositories. For example, if your co-worker, John, maintained a publicly accessible 
+repository on dev.example.com/john.git, you could add a connection as follows:
